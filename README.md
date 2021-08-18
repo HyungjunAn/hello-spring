@@ -7,7 +7,7 @@ $ ./gradlew build
 ```
 ## run
 ```bash
-$ java -jar build/lib/mydict-spring-0.0.1-SNAPSHOT.jar
+$ java -jar build/lib/hello-spring-0.0.1-SNAPSHOT.jar
 ```
 ## clean
 ```bash
